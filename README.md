@@ -14,7 +14,7 @@ This repository contains my own work, trying to understand and learn pandas tool
 - dropping inwanted amounts in the columns
 - calculating percentiles
 
-### Working with seaborn
+#### Working with seaborn
 At the end there are visualisations of data with different variables
 
 ## Language
