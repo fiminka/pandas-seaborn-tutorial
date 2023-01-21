@@ -1,4 +1,4 @@
-# Self work
+# Pandas and seaborn tutorial
 
 ## Description
 
